@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Example Site</title>
+        <link>https://cynmit05.github.io/rehugoweb/post/</link>
+        <description>Recent content in Posts on Example Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 08 Aug 2025 12:58:19 +0800</lastBuildDate><atom:link href="https://cynmit05.github.io/rehugoweb/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My Second Post</title>
+        <link>https://cynmit05.github.io/rehugoweb/p/my-second-post/</link>
+        <pubDate>Fri, 08 Aug 2025 12:58:19 +0800</pubDate>
+        
+        <guid>https://cynmit05.github.io/rehugoweb/p/my-second-post/</guid>
+        <description>&lt;p&gt;快乐翻倍&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My First Post</title>
+        <link>https://cynmit05.github.io/rehugoweb/p/my-first-post/</link>
+        <pubDate>Fri, 08 Aug 2025 12:37:53 +0800</pubDate>
+        
+        <guid>https://cynmit05.github.io/rehugoweb/p/my-first-post/</guid>
+        <description>&lt;p&gt;一键三连&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
